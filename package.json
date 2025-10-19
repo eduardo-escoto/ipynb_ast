@@ -1,0 +1,20 @@
+{
+  "name": "ipynb_ast",
+  "version": "1.0.0",
+  "description": "Converts notebooks to an AST much like md_ast in order to be able to manipulate and parse content for rendering pipelines",
+  "homepage": "https://github.com/eduardo-escoto/ipynb_ast#readme",
+  "bugs": {
+    "url": "https://github.com/eduardo-escoto/ipynb_ast/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardo-escoto/ipynb_ast.git"
+  },
+  "license": "ISC",
+  "author": "Eduardo Escoto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
